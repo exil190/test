@@ -21,7 +21,7 @@ int main(int argc,char **argv)
     /* Destruction de la fenêtre */
     gtk_widget_destroy(pWindow);
      
-     kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+    
      
     return EXIT_SUCCESS;
 }
